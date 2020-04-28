@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Adding some stuff to the home page
